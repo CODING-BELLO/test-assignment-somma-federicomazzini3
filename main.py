@@ -1,4 +1,4 @@
 # main.py
 
 def somma(a, b):
-    return a+b
+    return a + b
