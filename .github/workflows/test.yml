@@ -27,4 +27,4 @@ jobs:
 
       - name: Esegui test con pytest
         run: |
-          python -m unittest test.py
+          python -m unittest tests.py
